@@ -1,0 +1,21 @@
+
+{
+    "cars": [
+      {
+        "id": 1,
+        "name": "Speedster 2000",
+        "description": "Our flagship model, the Speedster 2000, is designed for maximum velocity while maintaining fuel efficiency."
+      },
+      {
+        "id": 2,
+        "name": "Velocity X",
+        "description": "The Velocity X combines cutting-edge aerodynamics with advanced technology to deliver unparalleled performance."
+      },
+      {
+        "id": 3,
+        "name": "Turbocharged Titan",
+        "description": "The Turbocharged Titan is perfect for those who demand power and precision in their driving experience."
+      }
+    ]
+  }
+  
